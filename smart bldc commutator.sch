@@ -15046,7 +15046,7 @@ Source: www.kingbright.com</description>
 <part name="U$7" library="nich" deviceset="FRAME-LETTER" device="" value="FRAME-LETTER"/>
 <part name="C3" library="rcl" deviceset="CPOL-US" device="E3.5-8" value="100uF"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
-<part name="P+13" library="supply1" deviceset="+12V" device=""/>
+<part name="P+13" library="supply1" deviceset="+12V" device="" value="VM"/>
 <part name="Q1" library="transistor-small-signal" deviceset="BSS123" device=""/>
 <part name="GND18" library="supply1" deviceset="GND" device=""/>
 <part name="R12" library="rcl" deviceset="R-US_" device="R0805" value="56"/>
