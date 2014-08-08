@@ -16,4 +16,4 @@ $RECYCLE.BIN/
 
 # vim backup files
 *.swp
-*.~
+*~
