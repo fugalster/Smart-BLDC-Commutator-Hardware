@@ -1972,7 +1972,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="JP1" library="pinhead" package="2X05" value="" x="3.81" y="25.4" smashed="yes" rot="R270">
 <attribute name="VALUE" x="-0.635" y="31.75" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="C3" library="rcl" package="E5-10,5" value="470uF" x="72.39" y="25.4" smashed="yes" rot="R90">
+<element name="C3" library="rcl" package="E5-10,5" value="100uF" x="72.39" y="25.4" smashed="yes" rot="R90">
 <attribute name="VALUE" x="75.438" y="23.114" size="1.27" layer="27" ratio="10" rot="R90"/>
 </element>
 <element name="Q1" library="transistor-small-signal" package="SOT23" value="BSS123" x="16.8275" y="9.8425" smashed="yes" rot="R270"/>
