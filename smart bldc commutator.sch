@@ -15095,7 +15095,7 @@ Source: www.kingbright.com</description>
 <sheets>
 <sheet>
 <plain>
-<text x="184.404" y="17.78" size="2.54" layer="94">V3.1</text>
+<text x="184.404" y="17.78" size="2.54" layer="94">V3.2</text>
 <text x="184.404" y="7.62" size="2.54" layer="94">Nich Fugal</text>
 <text x="99.06" y="144.78" size="5.08" layer="96">A</text>
 <text x="172.72" y="144.78" size="5.08" layer="96">B</text>
